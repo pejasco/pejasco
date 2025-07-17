@@ -1,4 +1,4 @@
-<h1> -- Welcome to my github page -- </h1>
+<h1 style="text-align: center;"> -- Welcome to my github page -- </h1>
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
 <h2> A student from 42 London and a junior software engineer💻</h2>
 
