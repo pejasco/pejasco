@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CF</h1>
+<h1 align="center">Hi 👋, I'm ChungFan</h1>
 <h3 align="center">A junior software engineer</h3>
 
 ---
