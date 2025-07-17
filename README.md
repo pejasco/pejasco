@@ -1,5 +1,6 @@
-<h1> Hello, I'm CF 🙋🏻‍♂️</h1>
-<h1> I am a student from 42 London and a junior software engineer💻</h1>
+<h1> -- Welcome to my github page -- </h1>
+<h2> Hello, I'm CF 🙋🏻‍♂️</h2>
+<h2> A student from 42 London and a junior software engineer💻</h2>
 
 ### 🛠️ Languages and Tools
 
