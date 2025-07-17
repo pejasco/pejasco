@@ -1,4 +1,9 @@
-<h1 align="center">— Welcome to my GitHub page —</h1>
+<h1 align="center">
+  — Welcome to my GitHub page 
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" style="vertical-align:middle; margin-left:8px;" />
+  —
+</h1>
+
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
 <h2> A student from 42 London and a junior software engineer💻</h2>
 
