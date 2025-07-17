@@ -3,7 +3,7 @@
 
 ---
 
-### Connect with me:
+<!--### Connect with me: -->
 
 <!-- Add your links here -->
 
