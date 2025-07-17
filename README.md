@@ -36,3 +36,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
 </p>
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pejasco&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=001f3f&icon_color=001f3f&text_color=CCCCCC&bg_color=000000" alt="my Github Stats"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pejasco&show_icons=true&locale=en&layout=compact&title_color=001f3f&text_color=CCCCCC&bg_color=000000" alt="Top Languages" />
+
+
+
+
