@@ -1,7 +1,9 @@
 <h1 align="center">
-  — Welcome to my GitHub page 
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" style="vertical-align:middle; margin-left:8px;" />
-  —
+  — Welcome to my GitHub
+  <a href="https://github.com/pejasco" target="_blank" rel="noopener noreferrer" style="display:inline-block; vertical-align:middle; margin-left:6px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="24" height="24" />
+  </a>
+  page —
 </h1>
 
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
