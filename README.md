@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <h1> -- Welcome to my github page -- </h1>
-</div>
+<h1 align="center">-- Welcome to my github page --</h1>
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
 <h2> A student from 42 London and a junior software engineer💻</h2>
 
