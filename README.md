@@ -51,7 +51,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-pejasco.vercel.app/api/top-langs/?username=pejasco&layout=compact&title_color=001f3f&text_color=CCCCCC&bg_color=000000&hide=cmake" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejasco&layout=compact&title_color=001f3f&text_color=CCCCCC&bg_color=000000&hide=cmake" alt="Top Languages" />
 </p>
-
 
