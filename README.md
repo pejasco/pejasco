@@ -1,7 +1,4 @@
-<h1>Hi 👋, I'm CF</h1>
-<h3>I am a Junior Software Engineer and a student from 42 London</h3>
-
----
+<h1> Hello, I'm CF. I am a Junior Software Engineer 💻 and a student from 42 London </h1>
 
 ### 🛠️ Languages and Tools
 
