@@ -11,32 +11,32 @@
 
 ### 🛠️ Languages and Tools
 
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/c/00599C" alt="c" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.nginx.com" target="_blank">
     <img src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 
 ---
