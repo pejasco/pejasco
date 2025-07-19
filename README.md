@@ -5,9 +5,11 @@
   </a>
    —
 </h1>
----
+
+<p>
 Hello, I'm CF 🙋🏻‍♂️
 A student from 42 London and a junior software engineer💻
+<p>
 
 
 <!-- Add your links here -->
