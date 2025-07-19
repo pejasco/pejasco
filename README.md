@@ -6,8 +6,8 @@
    —
 </h1>
 ---
-<h2> Hello, I'm CF 🙋🏻‍♂️</h2>
-<h2> A student from 42 London and a junior software engineer💻</h2>
+Hello, I'm CF 🙋🏻‍♂️
+A student from 42 London and a junior software engineer💻
 
 
 <!-- Add your links here -->
