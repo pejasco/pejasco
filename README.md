@@ -29,7 +29,7 @@ A student from 42 London and a junior software engineer💻
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://cdn.simpleicons.org/nginx/009639" alt="nginx" width="40" height="40"/></a>
   <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
