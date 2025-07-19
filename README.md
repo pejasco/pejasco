@@ -32,8 +32,6 @@
 
 
 ### Project GIF Showcase
-
-<p align="left">
-  <img src="fdf_for_profile.gif" alt="FDF Project Demo" width="400"/>
-</p>  
+<h2> FDF 🛕 </h2>
+<img src="fdf_for_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
