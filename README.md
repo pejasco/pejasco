@@ -5,7 +5,7 @@
   </a>
    —
 </h1>
-
+---
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
 <h2> A student from 42 London and a junior software engineer💻</h2>
 
@@ -35,7 +35,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
-
+---
 ### Project GIF Showcase
 <h2> FDF 🛕 </h2>
 <img src="fdf_for_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
