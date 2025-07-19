@@ -9,13 +9,18 @@
 <h2> Hello, I'm CF 🙋🏻‍♂️</h2>
 <h2> A student from 42 London and a junior software engineer💻</h2>
 
-### 🛠️ Languages and Tools
 
 <!-- Add your links here -->
 
 ---
+### 📊 GitHub Stats
 
-### Languages and Tools:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejasco&layout=compact&title_color=001f3f&text_color=CCCCCC&bg_color=000000&hide=cmake" alt="Top Languages" />
+</p>
+
+---
+### 🛠️ Languages and Tools:
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.simpleicons.org/c/00599C" alt="c" width="40" height="40"/></a>
