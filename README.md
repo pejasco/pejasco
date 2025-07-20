@@ -41,8 +41,9 @@ A student from 42 London and a junior software engineer💻
 ### Project GIF Showcase
 <h2>
   <a href="https://github.com/pejasco/Fdf/tree/main" target="_blank" style="text-decoration: none; color: inherit;">
-    FDF 🛕
+    FDF 🛕 – Click here to view the project
   </a>
 </h2>
 <img src="fdf_for_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
+
 
