@@ -41,7 +41,7 @@ A student from 42 London and a junior software engineer💻
 <p>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/></a>
 </p>
 
