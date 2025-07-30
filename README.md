@@ -46,7 +46,7 @@ A student from 42 London and a junior software engineer💻
     FDF 🛕 (Wireframe 3D Viewer)
   </a>
   <br>
-  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
+  <span style="font-size: 0.9em; color: #888;">– Click the title above to view the project</span>
 </h4>
 <img src="fdf_for_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
@@ -55,7 +55,7 @@ A student from 42 London and a junior software engineer💻
     Webserv 🗄️ (Writing own HTTP server)
   </a>
   <br>
-  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
+  <span style="font-size: 0.9em; color: #888;">– Click the title above to view the project</span>
 </h4>
 <img src="webserv_profile.gif" alt="Webserv Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
@@ -64,7 +64,7 @@ A student from 42 London and a junior software engineer💻
     Inception 📦 (Building custom Docker images from scratch and orchestrating multiple containers)
   </a>
   <br>
-  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
+  <span style="font-size: 0.9em; color: #888;">– Click the title above to view the project</span>
 </h4>
 <img src="incept_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
