@@ -40,27 +40,31 @@ A student from 42 London and a junior software engineer💻
 
 ---
 ### 🎞️ Selected Projects Showcase
+
 <h4>
   <a href="https://github.com/pejasco/Fdf/" target="_blank" style="text-decoration: none; color: inherit;">
-    FDF 🛕 (Wireframe 3D Viewer) 
-    – Click here to view the project
+    FDF 🛕 (Wireframe 3D Viewer)
   </a>
+  <br>
+  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
 </h4>
 <img src="fdf_for_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
 <h4>
   <a href="https://github.com/pejasco/WebServer" target="_blank" style="text-decoration: none; color: inherit;">
-    Webserv 🗄️ (Writing own HTTP server) 
-    – Click here to view the project
+    Webserv 🗄️ (Writing own HTTP server)
   </a>
+  <br>
+  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
 </h4>
 <img src="webserv_profile.gif" alt="Webserv Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
 <h4>
   <a href="https://github.com/pejasco/Inception" target="_blank" style="text-decoration: none; color: inherit;">
-    Inception 📦 (Building custom docker images from scratch and orchestrate multiple containers) 
-    – Click here to view the project
+    Inception 📦 (Building custom Docker images from scratch and orchestrating multiple containers)
   </a>
+  <br>
+  <span style="font-size: 0.9em; color: #888;">– Click here to view the project</span>
 </h4>
 <img src="incept_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
 
