@@ -39,7 +39,7 @@ A student from 42 London and a junior software engineer💻
 </p>
 
 ---
-### 🎞️ Selected Projects Showcase (For more projects, please go to Repositories)
+### 🎞️ Selected Projects Showcase
 <h4>
   <a href="https://github.com/pejasco/Fdf/" target="_blank" style="text-decoration: none; color: inherit;">
     FDF 🛕 – Click here to view the project
@@ -60,3 +60,8 @@ A student from 42 London and a junior software engineer💻
   </a>
 </h4>
 <img src="incept_profile.gif" alt="FDF Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
+
+<p>
+For more projects, please go to the <a href="https://github.com/pejasco?tab=repositories" target="_blank" rel="noopener noreferrer">Repositories 🗂️</a>
+</p>
+
