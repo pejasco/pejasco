@@ -12,8 +12,6 @@ A student from 42 London and a junior software engineer💻
 <p>
 
 
-<!-- Add your links here -->
-
 ---
 ### 🛠️ Languages and Tools:
 <p>
@@ -40,7 +38,7 @@ A student from 42 London and a junior software engineer💻
 </p>
 
 ---
-### 🎞️ Selected Projects GIF Showcase
+### 🎞️ Selected Projects GIF Showcase:
 
 <h4>
   <a href="https://github.com/pejasco/Fdf/" target="_blank" style="text-decoration: none; color: inherit;">
