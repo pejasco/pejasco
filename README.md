@@ -35,6 +35,7 @@ A student from 42 London and a junior software engineer💻
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/></a>
 </p>
 
 ---
