@@ -42,6 +42,15 @@ A student from 42 London and a junior software engineer💻
 ### 🎞️ Selected Projects GIF Showcase:
 
 <h4>
+  <a href="https://github.com/pejasco/BeatCoins" target="_blank" style="text-decoration: none; color: inherit;">
+    Beatcoins 🛕 (Crypto Dashboard)
+  </a>
+  <br>
+  <span style="font-size: 0.9em; color: #888;">– Click the title above to view the project</span>
+</h4>
+<img src="beatcoins_profile.gif" alt="Beatcoins Project Demo" style="width: 100%; max-width: 800px; height: auto;"/>
+
+<h4>
   <a href="https://github.com/pejasco/Fdf/" target="_blank" style="text-decoration: none; color: inherit;">
     FDF 🛕 (Wireframe 3D Viewer)
   </a>
