@@ -16,6 +16,7 @@ A student from 42 London and a junior software engineer💻
 ### 🛠️ Languages and Tools:
 <p>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.simpleicons.org/c/00599C" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/></a>
@@ -34,7 +35,6 @@ A student from 42 London and a junior software engineer💻
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/></a>
 </p>
 
