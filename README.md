@@ -15,7 +15,7 @@ A student from 42 London and a junior software engineer 💻
 
 ### 🛠️ Languages and Tools:
 
-<div align="center">
+<div>
 
 <!-- Row 1 -->
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30"/></a>
