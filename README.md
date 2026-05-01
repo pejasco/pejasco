@@ -26,9 +26,6 @@ A student from 42 London and a junior software engineer 💻
 <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="30"/></a>
 <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="30"/></a>
 <a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="30"/></a>
-
-<br><br>
-
 <!-- Row 2 -->
 <a href="https://www.nginx.com"><img src="https://cdn.simpleicons.org/nginx/009639" width="30"/></a>
 <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30"/></a>
