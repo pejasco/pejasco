@@ -8,7 +8,6 @@
 
 <p align="center">
 Hello, I'm CF 🙋🏻‍♂️<br>
-A student from 42 London and a junior software engineer 💻
 </p>
 
 ---
